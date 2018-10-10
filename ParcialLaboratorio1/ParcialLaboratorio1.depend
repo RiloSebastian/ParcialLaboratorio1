@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1539133320 source:/home/alumno/EXAMEN/ParcialLaboratorio1/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structsAbm.h"
+	"validations.h"
+	"informes.h"
+
+1539133830 source:/home/alumno/EXAMEN/ParcialLaboratorio1/structsAbm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structsAbm.h"
+	"validations.h"
+	"informes.h"
+
+1539133788 source:/home/alumno/EXAMEN/ParcialLaboratorio1/validations.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+
+1539133734 source:/home/alumno/EXAMEN/ParcialLaboratorio1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"structsAbm.h"
+	"validations.h"
+	"informes.h"
+
+1539133521 /home/alumno/EXAMEN/ParcialLaboratorio1/structsAbm.h
+
+1539122863 /home/alumno/EXAMEN/ParcialLaboratorio1/validations.h
+
+1539132835 /home/alumno/EXAMEN/ParcialLaboratorio1/informes.h
+
