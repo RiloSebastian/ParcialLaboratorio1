@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1539896019 source:/home/seba18/Proyectos C/ParcialLaboratorio1/afiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"informe.h"
+	"validaciones.h"
+
+1539895982 /home/seba18/Proyectos C/ParcialLaboratorio1/afiche.h
+
+1539896058 source:/home/seba18/Proyectos C/ParcialLaboratorio1/informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"informe.h"
+
+1539891371 source:/home/seba18/Proyectos C/ParcialLaboratorio1/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"afiche.h"
+	"informe.h"
+	"validaciones.h"
+
+1539896003 /home/seba18/Proyectos C/ParcialLaboratorio1/cliente.h
+
+1539896019 source:/home/seba18/Proyectos C/ParcialLaboratorio1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"informe.h"
+	"afiche.h"
+	"validaciones.h"
+
+1539894794 /home/seba18/Proyectos C/ParcialLaboratorio1/informe.h
+	"cliente.h"
+	"afiche.h"
+
+1539792555 /home/seba18/Proyectos C/ParcialLaboratorio1/validaciones.h
+
+1539896045 source:/home/seba18/Proyectos C/ParcialLaboratorio1/validaciones.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

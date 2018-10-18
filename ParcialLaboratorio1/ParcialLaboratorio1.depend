@@ -34,3 +34,38 @@
 
 1539132835 /home/alumno/EXAMEN/ParcialLaboratorio1/informes.h
 
+1539434574 source:/home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structsAbm.h"
+	"validations.h"
+	"informes.h"
+
+1539434574 /home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/structsAbm.h
+
+1539434574 /home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/validations.h
+
+1539434574 /home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/informes.h
+
+1539434574 source:/home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"structsAbm.h"
+	"validations.h"
+	"informes.h"
+
+1539434574 source:/home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/structsAbm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structsAbm.h"
+	"validations.h"
+	"informes.h"
+
+1539434574 source:/home/seba18/Desktop/FACULTAD/REPOSITORIO/ParcialLaboratorio1/ParcialLaboratorio1/validations.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+
